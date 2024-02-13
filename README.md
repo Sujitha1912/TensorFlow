@@ -16,7 +16,7 @@ Math,
 Matplotlib,
 Animation .
 
-## steps involved
+## Steps involved
 Choosing the problem statement
 prepocess data
 prepare data
