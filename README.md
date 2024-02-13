@@ -6,15 +6,15 @@ House Price Prediction using TensorFlow
 This data analysis project focuses on predicting Housing prices using machine learning technique TensorFlow.
 
 ## Tools
-Visual Studio code
+Visual Studio code, 
 Python 
 
 ## Libraries used
-TensorFlow
-Numpy
-Math
-Matplotlib
-Animation 
+TensorFlow.
+Numpy,
+Math,
+Matplotlib,
+Animation .
 
 ## steps involved
 Choosing the problem statement
