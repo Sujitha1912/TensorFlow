@@ -17,11 +17,11 @@ Matplotlib,
 Animation .
 
 ## Steps involved
-Choosing the problem statement
-prepocess data
-prepare data
-Apply Machine Learning ALgorith
-Generate TensorFlow Model
+1) Choosing the problem statement
+2) Prepocess data
+3) Prepare data
+4) Apply Machine Learning ALgorith
+5) Generate TensorFlow Model
 
 
 
